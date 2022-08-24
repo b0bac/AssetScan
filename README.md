@@ -8,6 +8,8 @@
 
 ## 安装（Installation）
 ```bash
+brew install masscan
+brew install nmap
 git clone https://github.com/b0bac/AssetScan.git
 python3 -m pip install -r requirements.txt
 ```
